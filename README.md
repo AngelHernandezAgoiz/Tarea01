@@ -1,15 +1,16 @@
-# Mi Proyecto Web
+## Mi Proyecto Web
 
 Este es un proyecto en HTML creado para aprender a usar Git y GitHub. Está realizado como parte de una práctica en la que se trabajan repositorios remotos, ramas, commits y Pull Requests.
 
-# Tabla de contenidos
+## Tabla de contenidos
 
-- Instalación
-- Estructura del proyecto
-- Mejoras implementadas
-- Uso
+- [Instalación](#instalación)
+- [Estructura del proyecto](#estructura-del-proyecto)
+- [Mejoras implementadas](#mejoras-implementadas)
+- [Uso](#uso)
 
-# Instalación
+  
+## Instalación
 
 1. Clonar el repositorio desde GitHub:
 
@@ -21,7 +22,7 @@ Este es un proyecto en HTML creado para aprender a usar Git y GitHub. Está real
 
 3. Abrir el archivo index.html en un navegador web.
 
-# Estructura del proyecto
+## Estructura del proyecto
 
 Archivos principales del proyecto:
 
@@ -29,7 +30,7 @@ Archivos principales del proyecto:
 - .gitignore: archivo que indica qué elementos debe ignorar Git.
 - Carpeta .vscode/: carpeta de configuración del editor (excluida mediante .gitignore).
 
-# Mejoras implementadas
+## Mejoras implementadas
 
 Las mejoras se han desarrollado en ramas independientes y luego se han fusionado con la rama main mediante Pull Requests.
 
@@ -39,7 +40,7 @@ Las mejoras se han desarrollado en ramas independientes y luego se han fusionado
 2. Footer con redes sociales (rama feature/footer):
    - Se ha añadido un pie de página con texto que hace referencia a redes sociales (Instagram, Twitter y LinkedIn).
 
-# Uso
+## Uso
 
 Para ver la página web:
 
